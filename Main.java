@@ -32,6 +32,7 @@ class Main {
       }else if(numPressed == 3){
         System.out.println("Top 10 Forbes In-Demand Jobs!");
       }else if(numPressed == 4){
+        System.out.println("Current Students:");
         for(String Sn : arrayList){
           System.out.println(Sn);
         }
