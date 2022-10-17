@@ -26,7 +26,7 @@ class Main {
       numPressed = userInput.nextInt();
 
       if(numPressed == 1){
-        System.out.println("$98,345 average salary in South Florida.");
+        System.out.println("$98,345 average salary in South Florida!");
       }else if(numPressed == 2){
         System.out.println("US News - 100 Best Jobs!");
       }else if(numPressed == 3){
